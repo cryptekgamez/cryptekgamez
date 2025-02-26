@@ -1,0 +1,36 @@
+html{
+    font-family: "Tiny5", Arial, Helvetica, sans-serif;
+  }
+  html,
+  body{
+    font-family: "Tiny5", Arial, Helvetica, sans-serif;
+    background-color:#000000;
+    color:#39ff14;
+  }
+
+  header {
+    max-inline-size: 64em;
+    margin-inline: auto;
+  }
+
+  section {
+    max-inline-size: 64em;
+    margin-inline: auto;
+    padding-block: 3em;
+  }
+  h1{
+   background-color:#39ff14;
+   color:#000000;
+   text-align: center;
+  }
+  a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-inline: auto;
+    text-align: center;
+    background-color:#39ff14;
+    color:#000000;
+    padding: .75rem 1.25em;
+    text-decoration:#39ff14
+  }
